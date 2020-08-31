@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/dinhresume/static/css/main.e9b21350.chunk.css",
+    "main.js": "/dinhresume/static/js/main.5c08d72e.chunk.js",
+    "main.js.map": "/dinhresume/static/js/main.5c08d72e.chunk.js.map",
+    "runtime-main.js": "/dinhresume/static/js/runtime-main.b5bb5f1b.js",
+    "runtime-main.js.map": "/dinhresume/static/js/runtime-main.b5bb5f1b.js.map",
+    "static/js/2.35618fd8.chunk.js": "/dinhresume/static/js/2.35618fd8.chunk.js",
+    "static/js/2.35618fd8.chunk.js.map": "/dinhresume/static/js/2.35618fd8.chunk.js.map",
+    "index.html": "/dinhresume/index.html",
+    "precache-manifest.89443fe7178fc7c02eb348f5e86c6f8b.js": "/dinhresume/precache-manifest.89443fe7178fc7c02eb348f5e86c6f8b.js",
+    "service-worker.js": "/dinhresume/service-worker.js",
+    "static/css/main.e9b21350.chunk.css.map": "/dinhresume/static/css/main.e9b21350.chunk.css.map",
+    "static/js/2.35618fd8.chunk.js.LICENSE.txt": "/dinhresume/static/js/2.35618fd8.chunk.js.LICENSE.txt",
+    "static/media/avatar1.jpg": "/dinhresume/static/media/avatar1.fce168e6.jpg",
+    "static/media/App.css": "/dinhresume/static/media/w1.20862f7e.jpg",
+    "static/media/html-css-javascript-lg.jpg": "/dinhresume/static/media/html-css-javascript-lg.54fd4234.jpg",
+    "static/media/javascript-fullstack.jpg": "/dinhresume/static/media/javascript-fullstack.730958a2.jpg",
+    "static/media/mern-stack.jpg": "/dinhresume/static/media/mern-stack.90616a5d.jpg",
+    "static/media/react-redux.jpg": "/dinhresume/static/media/react-redux.a8b012a0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5bb5f1b.js",
+    "static/js/2.35618fd8.chunk.js",
+    "static/css/main.e9b21350.chunk.css",
+    "static/js/main.5c08d72e.chunk.js"
+  ]
+}
